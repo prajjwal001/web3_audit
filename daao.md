@@ -1,7 +1,7 @@
 # Report
 
 - Audit Platform: **Cantina**
-- Protocol: **Daao**
+- Protocol: **[Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)**
 
 ----
 
