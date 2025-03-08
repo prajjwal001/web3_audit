@@ -1,3 +1,4 @@
 ## This repo has all the valid findings I have gotten in public audits on multiple Audit Platform
 
-1. [Daao](https://github.com/prajjwal001/audit_report/blob/main/daao.md)
+### Protocol Secured
+- [Daao](https://github.com/prajjwal001/audit_report/blob/main/daao.md) : DAAO is a decentralized autonomous agentic organization protocol that enables automated fundraising and liquidity management through Uniswap V3. The protocol allows projects to raise funds through configurable fundraising rounds (both whitelisted and public), automatically creates and locks Uniswap V3 positions with the raised funds, and implements a sophisticated treasury management system with built-in tax mechanisms and fee collection from liquidity positions. The smart contract architecture ensures secure fund management while providing flexibility for DAO governance and automated market making.
