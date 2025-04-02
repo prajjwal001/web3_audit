@@ -16,9 +16,6 @@ This audit portfolio contains the contests I have participated in till now, alon
 | Non-Critical | 2    |
 
  
-[cantina](https://cantina.xyz/u/sabanaku) | [code4rena](https://code4rena.com/@sabanaku77) |  [sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
-
-
 
 ## Audit Contests
 | Contest | Language / Stack | Findings | Ranking | Flatform |
