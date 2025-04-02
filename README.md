@@ -18,7 +18,7 @@ This audit portfolio contains the contests I have participated in till now, alon
  
 
 ## Audit Contests
-| Contest | Language / Stack | Findings | Ranking | Flatform |
+| Contest | Language / Stack | Findings | Ranking | Platform |
 | - | :-: | :-: | :-: | :-: |
 | [Crestal Network](https://audits.sherlock.xyz/contests/755) | Solidity | 1H, 3M | 2nd | Sherlock |
 | [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | Solidity | 3H, 2L, 2NC | 10th | Cantina |
