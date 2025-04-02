@@ -2,9 +2,9 @@
 
 This audit portfolio contains the contests I have participated in till now, along with my performance in them.
 
-- X : 
-- Telegram : 
-- Discord : 
+- X : [@Sabanaku77](https://x.com/Sabanaku77)
+- Telegram : @Sabanaku77
+- Discord : @sabanaku77
 
 ### Total findings:
 
