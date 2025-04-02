@@ -1,7 +1,7 @@
 # Auditing Portfolio
 
 This audit portfolio contains the contests I have participated in till now, along with my performance in them.
-
+- [cantina](https://cantina.xyz/u/sabanaku) | [code4rena](https://code4rena.com/@sabanaku77) |  [sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
 - X : [@Sabanaku77](https://x.com/Sabanaku77)
 - Telegram : @Sabanaku77
 - Discord : @sabanaku77
@@ -16,7 +16,6 @@ This audit portfolio contains the contests I have participated in till now, alon
 | Non-Critical | 2    |
 
  
-My accounts:
 [cantina](https://cantina.xyz/u/sabanaku) | [code4rena](https://code4rena.com/@sabanaku77) |  [sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
 
 
