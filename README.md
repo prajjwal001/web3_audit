@@ -1,10 +1,12 @@
 # Auditing Portfolio
 
-This audit portfolio contains the contests I have participated in till now, along with my performance in them.
-- [cantina](https://cantina.xyz/u/sabanaku) | [code4rena](https://code4rena.com/@sabanaku77) |  [sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
+Welcome! I'm a Web3 security researcher actively participating in audit contests across Sherlock, Cantina, and Code4rena. I specialize in discovering logic bugs, smart contract vulnerabilities, and gas inefficiencies in Solidity-based projects.
+
 - X : [@Sabanaku77](https://x.com/Sabanaku77)
 - Telegram : @Sabanaku77
 - Discord : @sabanaku77
+- Audit Handles: [Cantina](https://cantina.xyz/u/sabanaku) | [Code4rena](https://code4rena.com/@sabanaku77) | [Sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
+
 
 ### Total findings:
 
@@ -26,3 +28,14 @@ This audit portfolio contains the contests I have participated in till now, alon
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | top 85%| C4 |
 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solidity | 1L | N/A | Cantina |
 
+##  What's Next
+I'm actively looking to:
+- Join audit teams (part-time or full-time)
+- Take up freelance audits
+- Publish deeper vulnerability writeups
+
+Feel free to reach out if you’d like to collaborate or connect!
+
+---
+
+*Last updated: 2nd April 2025*
