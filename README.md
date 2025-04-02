@@ -28,6 +28,16 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | top 85%| C4 |
 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solidity | 1L | N/A | Cantina |
 
+## ⏳ Pending Results
+
+These are contests I’ve recently participated in. Awaiting final rankings:
+
+| Contest | Language / Stack | Platform | Notes |
+|---------|------------------|----------|-------|
+| [Nudge.xyz](https://code4rena.com/audits/2025-03-nudgexyz) | Solidity | C4 | *Submitted, waiting for results* |
+| [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | CodeHawks | *Submitted, waiting for results* |
+
+
 ##  What's Next
 I'm actively looking to:
 - Join audit teams (part-time or full-time)
