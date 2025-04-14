@@ -25,7 +25,7 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 | [Crestal Network](https://audits.sherlock.xyz/contests/755) | Solidity | 1H, 3M | 2nd | Sherlock |
 | [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | Solidity | 3H, 2L, 2NC | 10th | Cantina |
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Solidity | 1H | top 65%| C4 |
-| [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | top 85%| C4 |
+| [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | 12th | C4 |
 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solidity | 1L | N/A | Cantina |
 
 ## ⏳ Pending Results
