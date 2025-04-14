@@ -36,13 +36,14 @@ These are contests I’ve recently participated in. Awaiting final rankings:
 |---------|------------------|----------|-------|
 | [Nudge.xyz](https://code4rena.com/audits/2025-03-nudgexyz) | Solidity | C4 | *Submitted, waiting for results* |
 | [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | CodeHawks | *Submitted, waiting for results* |
+| [Forte](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | Solidity| C4 |  *Submitted, waiting for results* |
 
 
 ##  What's Next
 I'm actively looking to:
 - Join audit teams (part-time or full-time)
 - Take up freelance audits
-- Publish deeper vulnerability writeups
+- Publish more profound vulnerability writeups
 
 Feel free to reach out if you’d like to collaborate or connect!
 
