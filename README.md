@@ -36,7 +36,6 @@ These are contests I’ve recently participated in. Awaiting final rankings:
 |---------|------------------|----------|-------|
 | [Nudge.xyz](https://code4rena.com/audits/2025-03-nudgexyz) | Solidity | C4 | *Submitted, waiting for results* |
 | [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | CodeHawks | *Submitted, waiting for results* |
-| [Forte](https://code4rena.com/audits/2025-04-forte-float128-solidity-library) | Solidity| C4 |  *Submitted, waiting for results* |
 
 
 ##  What's Next
