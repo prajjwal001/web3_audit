@@ -34,7 +34,6 @@ These are contests I’ve recently participated in. Awaiting final rankings:
 
 | Contest | Language / Stack | Platform | Notes |
 |---------|------------------|----------|-------|
-| [Nudge.xyz](https://code4rena.com/audits/2025-03-nudgexyz) | Solidity | C4 | *Submitted, waiting for results* |
 | [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | CodeHawks | *Submitted, waiting for results* |
 
 
