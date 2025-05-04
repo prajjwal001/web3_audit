@@ -14,7 +14,7 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 |----------|----------|
 | High   | 5    |
 | Medium | 4    |
-| Low    | 3    |
+| Low    | 4    |
 | Non-Critical | 2    |
 
  
