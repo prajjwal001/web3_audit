@@ -14,7 +14,7 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 |----------|----------|
 | High   | 5    |
 | Medium | 4    |
-| Low    | 2    |
+| Low    | 3    |
 | Non-Critical | 2    |
 
  
@@ -27,6 +27,7 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Solidity | 1H | top 65%| C4 |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | 12th | C4 |
 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solidity | 1L | N/A | Cantina |
+| [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | 1L | 11th | CodeHawks |
 
 ## ⏳ Pending Results
 
@@ -34,7 +35,7 @@ These are contests I’ve recently participated in. Awaiting final rankings:
 
 | Contest | Language / Stack | Platform | Notes |
 |---------|------------------|----------|-------|
-| [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | CodeHawks | *Submitted, waiting for results* |
+
 
 
 ##  What's Next
@@ -47,4 +48,4 @@ Feel free to reach out if you’d like to collaborate or connect!
 
 ---
 
-*Last updated: 15th April 2025*
+*Last updated: 4th May 2025*
