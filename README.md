@@ -1,11 +1,11 @@
 # Auditing Portfolio
 
-Welcome! I'm a Web3 security researcher actively participating in audit contests across Sherlock, Cantina, and Code4rena. I specialize in discovering logic bugs, smart contract vulnerabilities, and gas inefficiencies in Solidity-based projects.
+Welcome! I'm a Web3 security researcher actively participating in audit contests across Sherlock, Cantina, Codehawks and Code4rena. I specialize in discovering logic bugs, smart contract vulnerabilities, and gas inefficiencies in Solidity-based projects.
 
 - X : [@Sabanaku77](https://x.com/Sabanaku77)
 - Telegram : @Sabanaku77
 - Discord : @sabanaku77
-- Audit Handles: [Cantina](https://cantina.xyz/u/sabanaku) | [Code4rena](https://code4rena.com/@sabanaku77) | [Sherlock](https://audits.sherlock.xyz/watson/sabanaku77)
+- Audit Handles: [Cantina](https://cantina.xyz/u/sabanaku) | [Code4rena](https://code4rena.com/@sabanaku77) | [Sherlock](https://audits.sherlock.xyz/watson/sabanaku77) | [Codehawks](https://profiles.cyfrin.io/u/sabanaku77)
 
 
 ### Total findings:
