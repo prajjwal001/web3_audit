@@ -27,7 +27,7 @@ Welcome! I'm a Web3 security researcher actively participating in audit contests
 | [Next Generation](https://code4rena.com/audits/2025-01-next-generation) | Solidity | 1H | top 65%| C4 |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Solidity | 1M | 12th | C4 |
 | [Inclusive Finance](https://cantina.xyz/competitions/3eff5a8f-b73a-4cfe-8c54-546b475548f0) | Solidity | 1L | N/A | Cantina |
-| [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | 1L | 11th | CodeHawks |
+| [Storage Proofs](https://codehawks.cyfrin.io/c/2025-03-curve) | Solidity | 1L | 5th | CodeHawks |
 
 ## ⏳ Pending Results
 
